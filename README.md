@@ -1,3 +1,5 @@
 # TD-Renderer
 
- ![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+<a id="raw-url" href="https://raw.github.com/juninjune/TD-Renderer/main/Render.tox" download>Download Render.tox</a>
+
+ ![UI Window](https://raw.github.com/juninjune/TD-Renderer/main/resources/README.png)
